@@ -1,2 +1,9 @@
-# quick-dotfiles-kit-81
-A simple dotfiles project
+# Dotfiles
+
+A simple dotfiles project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
